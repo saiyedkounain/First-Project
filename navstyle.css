@@ -19,6 +19,8 @@ body {
 	display: -o-flex;
 	display: flex;
 } 
+    
+
 
 .navbar ul li a {
 	text-decoration: none;
